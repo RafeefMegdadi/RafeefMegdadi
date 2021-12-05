@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RafeefMegdadi
-- 👀 I’m interested in Cocking
+- 👀 I’m interested in Cooking
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me https://www.linkedin.com/in/rafeef-migdadi-b9b3a2225
